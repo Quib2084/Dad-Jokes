@@ -30,23 +30,22 @@ body{
 }
 
 .container:hover{
-    transform: scale(1.05);
+    transform: scale(0.95);
     transition: all 0.5s ease-in-out;
 }
 
 
 h2{
-    font-size: 10px;
+    font-size: 1em;
     letter-spacing: 3px;
     opacity: 80%;
     margin: 0;
-    font-size: 1.2em;
     text-transform: capitalize;
 }
 
 .joke{
     font-family: 'Lato', 'sans-serif';
-    font-size: 2.3em;
+    font-size: 2em;
     letter-spacing: 1px;
     line-height: 50px;
     margin: 50px auto;
@@ -81,3 +80,7 @@ h2{
     background-color: #fff;
     color:#bf3000;
 }
+
+
+
+
